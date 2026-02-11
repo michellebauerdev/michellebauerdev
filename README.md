@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0
+<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg"></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=il65whh22257zy8tfhxi9jpml&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
