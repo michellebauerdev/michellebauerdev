@@ -1,7 +1,8 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000&bannerText=Beats" />
+<!--
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000&bannerText=Beats" />
 ## Hi there 👋
 
-<!--
 **michellebauerdev/michellebauerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0" alt="moon.svg"></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=il65whh22257zy8tfhxi9jpml&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+-->
