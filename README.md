@@ -52,14 +52,14 @@
 
   <br/>
 
-  <details>
+    <details>
     <summary>currently listening</summary>
     <br/>
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=il65whh22257zy8tfhxi9jpml&cover_image=true&theme=default&background_color=121212"
       alt="Spotify"
     />
-  </details>
+    </details>
 
   <br/><br/>
 
