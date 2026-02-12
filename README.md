@@ -47,17 +47,17 @@
   <!-- Streak Card -->
   <p>
     <img
-      src="https://streak-stats.demolab.com?user=michellebauerdev&hide_border=true&background=0d1117&stroke=0d1117&ring=6e7681&fire=6e7681&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
+      src="https://streak-stats.demolab.com?user=michellebauerdev&hide_border=true&background=0d1117&stroke=0d1117&ring=ff6ea8&fire=ff6ea8&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
       height="165"
     />
   </p>
 
   <br/>
 
-  <!-- Activity Graph perfectly blended -->
+  <!-- Activity Graph -->
   <p>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=6e7681&point=8b949e&area=false&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&bg_color=0d1117&color=c9d1d9&line=ff6ea8&point=ff9ecb&area=true&area_color=ff6ea8&hide_border=true"
     />
   </p>
 
