@@ -15,11 +15,11 @@
       <img src="https://img.shields.io/badge/LinkedIn-michellebauerdev-ff6ea8?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 
-    <a href="https://github.com/michellebauerdev">
-      <img src="https://img.shields.io/badge/GitHub-michellebauerdev-ff6ea8?logo=github&logoColor=white" alt="GitHub"/>
-    </a>
+  <a href="https://github.com/michellebauerdev">
+    <img src="https://img.shields.io/badge/GitHub-michellebauerdev-ff6ea8?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-    <img src="https://komarev.com/ghpvc/?username=michellebauerdev&label=views&color=ff6ea8&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=michellebauerdev&label=views&color=ff6ea8&style=flat" alt="views"/>
   </p>
 
   <br/><br/>
