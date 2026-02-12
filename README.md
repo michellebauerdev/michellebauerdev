@@ -4,12 +4,6 @@
 
   <br/><br/>
 
-  <h1>Hi, I'm Michelle</h1>
-
-  <p>
-    <b>CS student</b> · building little things
-  </p>
-
   <p>
     <a href="https://linkedin.com/in/michellebauerdev">
       <img
