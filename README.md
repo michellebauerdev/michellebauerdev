@@ -54,10 +54,10 @@
 
   <br/>
 
-  <!-- Activity Graph -->
+  <!-- Activity Graph perfectly blended -->
   <p>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&theme=high-contrast&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=6e7681&point=8b949e&area=false&hide_border=true"
     />
   </p>
 
