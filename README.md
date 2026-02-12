@@ -4,12 +4,6 @@
 
   <br/><br/>
 
-  <h1>Michelle Bauer</h1>
-
-  <p>
-    Computer Science @ TU Dortmund
-  </p>
-
   <p>
     <a href="https://linkedin.com/in/michellebauerdev">
       <img
@@ -17,24 +11,24 @@
         alt="LinkedIn"
       />
     </a>
-
-  <a href="https://github.com/michellebauerdev">
+    <a href="https://github.com/michellebauerdev">
       <img
         src="https://img.shields.io/badge/GitHub-michellebauerdev-ff6ea8?logo=github&logoColor=white"
         alt="GitHub"
       />
-  </a>
-
-  <img
+    </a>
+    <img
       src="https://komarev.com/ghpvc/?username=michellebauerdev&label=views&color=ff6ea8&style=flat"
       alt="views"
     />
   </p>
 
-  <br/><br/>
+  <br/>
 
   <p>
-    curious about systems, software and where they intersect.
+    <span style="font-size: 16px;">
+      curious about systems, software and where they intersect.
+    </span>
   </p>
 
   <br/><br/>
