@@ -57,7 +57,7 @@
   <!-- Activity Graph -->
   <p>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&theme=react-dark&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&theme=high-contrast&hide_border=true"
     />
   </p>
 
