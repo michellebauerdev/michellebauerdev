@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=190&width=2000&bannerText=Beats" alt="banner" />
+  <img src="./github-header-banner.png" alt="GitHub header banner" />
 
-  <br/>
+  <br/><br/>
 
   <h1>Hi, I'm Michelle</h1>
 
@@ -12,14 +12,23 @@
 
   <p>
     <a href="https://linkedin.com/in/michellebauerdev">
-      <img src="https://img.shields.io/badge/LinkedIn-michellebauerdev-ff6ea8?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img
+        src="https://img.shields.io/badge/LinkedIn-michellebauerdev-ff6ea8?logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
     </a>
 
   <a href="https://github.com/michellebauerdev">
-    <img src="https://img.shields.io/badge/GitHub-michellebauerdev-ff6ea8?logo=github&logoColor=white" alt="GitHub"/>
+      <img
+        src="https://img.shields.io/badge/GitHub-michellebauerdev-ff6ea8?logo=github&logoColor=white"
+        alt="GitHub"
+      />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=michellebauerdev&label=views&color=ff6ea8&style=flat" alt="views"/>
+  <img
+      src="https://komarev.com/ghpvc/?username=michellebauerdev&label=views&color=ff6ea8&style=flat"
+      alt="views"
+    />
   </p>
 
   <br/><br/>
@@ -41,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" alt="Git"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" alt="HTML5"/>
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42" alt="Unity"/>
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="42" alt="Unreal"/>
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="42" alt="Unreal Engine"/>
   </p>
 
   <br/><br/>
@@ -50,16 +59,16 @@
     <img
       src="https://streak-stats.demolab.com?user=michellebauerdev&hide_border=true&background=0d1117&stroke=0d1117&ring=ff6ea8&fire=ff6ea8&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
       height="165"
-      alt="streak"
+      alt="GitHub streak"
     />
   </p>
 
   <br/>
-  
+
   <p>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=michellebauerdev&bg_color=0d1117&color=c9d1d9&line=ff6ea8&point=ff9ecb&area=true&area_color=ff6ea8&hide_border=true"
-      alt="activity graph"
+      alt="Activity graph"
     />
   </p>
 
@@ -70,12 +79,10 @@
     <br/>
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=il65whh22257zy8tfhxi9jpml&cover_image=true&theme=default&background_color=121212"
-      alt="spotify"
+      alt="Spotify"
     />
   </details>
 
   <br/><br/>
-
-  <img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=190&width=2000&bannerText=Beats" alt="banner"/>
 
 </div>
