@@ -52,6 +52,7 @@
 
   <br/>
 
+    -->
     <details>
     <summary>currently listening</summary>
     <br/>
@@ -60,6 +61,7 @@
       alt="Spotify"
     />
     </details>
+    <--
 
   <br/><br/>
 
