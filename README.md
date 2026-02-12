@@ -5,7 +5,7 @@
 <h1>Hi, I'm Michelle ✨</h1>
 
 <p>
-<b>CS student in progress</b> ・ building little things 
+<b>CS student in progress</b> ・ building little things
 </p>
 
 <p>
@@ -51,12 +51,7 @@
 <h2>📈 Stats</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=michellebauerdev&show_icons=true&hide_border=true&theme=rose_pine" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michellebauerdev&hide_border=true&theme=rose_pine" height="150"/>
-</p>
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=michellebauerdev&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=michellebauerdev&show_icons=true&hide_border=true&theme=rose_pine" height="160"/>
 </p>
 
 <hr>
@@ -67,9 +62,6 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=il65whh22257zy8tfhxi9jpml&cover_image=true&theme=default&background_color=121212"/>
 </details>
 
-<br>
-
-<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=220&width=2000&bannerText=Beats" />
-
 </div>
+
 
