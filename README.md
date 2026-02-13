@@ -51,4 +51,11 @@
   </p>
 
   <br/>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michellebauerdev&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=michellebauerdev&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellebauerdev&layout=compact&theme=radical" height="165"/>
+</p>
+
 </div>
