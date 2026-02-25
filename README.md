@@ -11,12 +11,6 @@
         alt="LinkedIn"
       />
     </a>
-    <a href="https://github.com/michellebauerdev">
-      <img
-        src="https://img.shields.io/badge/GitHub-michellebauerdev-ff6ea8?logo=github&logoColor=white"
-        alt="GitHub"
-      />
-    </a>
     <img
       src="https://komarev.com/ghpvc/?username=michellebauerdev&label=views&color=ff6ea8&style=flat"
       alt="views"
@@ -26,8 +20,8 @@
   <br/>
 
   <p>
-    <span style="font-size: 16px;">
-      curious about systems, software and where they intersect.
+    <span style="font-size: 18px;">
+      Focused on continuous improvement and practical implementation of new technologies.
     </span>
   </p>
 
