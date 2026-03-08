@@ -20,7 +20,7 @@
   <br/>
 
   <p>
-    <span style="font-size: 18px;">
+    <span style="font-size: 20px;">
       Focused on continuous improvement and practical implementation of new technologies.
     </span>
   </p>
